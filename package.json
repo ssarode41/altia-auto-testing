@@ -1,0 +1,11 @@
+{
+  "name": "altia-auto-testing",
+  "private": true,
+  "devDependencies": {
+    "@playwright/test": "^1.45.0",
+    "typescript": "^5.5.0"
+  },
+  "scripts": {
+    "test": "playwright test"
+  }
+}
